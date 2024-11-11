@@ -12,7 +12,7 @@ Welcome to my profile! I am the creator of an innovative betting platform that c
         <img src="https://img.shields.io/badge/Login-0078D4?style=for-the-badge&logo=login&logoColor=white" alt="Login">
     </a>
     <a href="https://tirangagame.org/#/register?invitationCode=6666648424" target="_blank">
-        <img src="https://img.shields.io/badge/Sign_Up-28a745?style=for-the-badge&logo=signup&logoColor=white" alt="Sign Up">
+        <img src="https://img.shields.io/badge/Sign_Up-28a745?style=for-the-badge&logo=signup&logoColor=white" alt="Register">
     </a>
 </div>
 
