@@ -21,7 +21,7 @@ Welcome to my profile! I am the creator of an innovative betting platform that c
 
 <div align="center">
     <a href="https://tirangagame.org/#/register?invitationCode=6666648424" target="_blank">
-        <img src="https://github.com/Tweb45/Tiranga-login/blob/main/Tiranga-Games-Homepage.jpg?raw=true" alt="Visit My Betting Site" width="400">
+        <img src="https://github.com/Tweb45/Tiranga-login/blob/main/siteimg.jpg?raw=true" alt="Visit My Betting Site" width="400">
     </a>
 </div>
 
