@@ -7,6 +7,6 @@
 <!-- Image Section -->
 <div align="center">
     <a href="https://tinyurl.com/3atxasnt" target="_blank">
-        <img src="https://github.com/Tweb45/Tweb45/blob/main/siteimg.jpg?raw=true" alt="Visit My Betting Site" width="500">
+        <img src="https://github.com/Tweb45/Tweb45/blob/main/images.png?raw=true" alt="Visit My Betting Site" width="500">
     </a>
 </div>
